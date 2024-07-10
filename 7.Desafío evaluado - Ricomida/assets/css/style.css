@@ -1,0 +1,102 @@
+.container-fluid {
+  padding: 0px;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+.navbar,
+.navbar-link,
+.navbar-brand {
+  background-color: #373a3c;
+}
+
+.navbar-brand {
+  font-family: lobster;
+  font-weight: 400;
+  font-size: 37px;
+  color: white;
+  padding-left: 37px;
+  margin: 0% 14%;
+}
+
+.navbar-nav {
+  margin-right: 150px;
+  padding-right: 60px;
+}
+
+.navbar-toggler {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+  font-family: cabin;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.principal-img {
+  /* width: 482px; */
+  padding-left: 37px;
+  padding-right: 37px;
+}
+
+.principal-txt {
+  width: 648;
+  font-family: cabin;
+  font-weight: 700;
+}
+
+.t-lr {
+  font-family: cabin;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.d-lr {
+  font-family: cabin;
+  font-weight: 300;
+}
+
+#ingre {
+  list-style: none;
+  font-size: 20px;
+}
+
+#preparacion {
+  font-size: 20px;
+  list-style: none;
+}
+
+.txt-card {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.card-title {
+  font-size: 23px;
+  font-weight: 700;
+}
+
+.suscripciones {
+  padding: 6em 2em;
+  background-color: #dc3545;
+  text-align: center;
+}
+
+.txt-footer,
+.txt-logo {
+  font-family: lobster;
+  font-weight: 300;
+  color: white;
+}
+
+footer {
+  height: 70px;
+  background-color: #373a3c;
+  text-align: center;
+  font-size: 46px;
+}
